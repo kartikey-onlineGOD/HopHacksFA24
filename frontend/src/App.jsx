@@ -1,7 +1,7 @@
-
-import VideoStream from './VideoStream';
 import React, { useState, useEffect } from 'react';
-import axios from 'axios'; 
+import axios from 'axios';
+import { Editor } from '@tinymce/tinymce-react';
+import VideoStream from './VideoStream';
 
 const DisplayBox = () => {
   const [logs, setLogs] = useState([]);
@@ -27,7 +27,7 @@ const DisplayBox = () => {
     };
 
     // Set an interval to fetch data every 2 seconds (for live updates)
-    const intervalId = setInterval(fetchData, 20);
+    const intervalId = setInterval(fetchData, 2000);
 
     // Clear interval on component unmount
     return () => clearInterval(intervalId);
@@ -43,9 +43,7 @@ const DisplayBox = () => {
         </div>
         <div className="bg-gray-100 rounded p-2">
           <h3 className="font-semibold mb-2">Tools:</h3>
-          
           <p>Tools in Use: {toolCounts.toolsInUse}</p>
-          
         </div>
         <div className="bg-gray-100 rounded p-2">
           <h3 className="font-semibold mb-2">Discard:</h3>
@@ -65,7 +63,6 @@ const DisplayBox = () => {
     </div>
   );
 };
-
 
 const VerticalButtons = () => {
   const reinitializeToolCounts = async () => {
@@ -104,21 +101,13 @@ const VerticalButtons = () => {
       </button>
       <button
         className="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600"
-        onClick={downloadLatestLog} // Add this line
+        onClick={downloadLatestLog}
       >
         Download Latest Log
-      </button>
-      <button className="bg-yellow-500 text-white px-4 py-2 rounded hover:bg-yellow-600">
-        Button 3
-      </button>
-      <button className="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600">
-        Button 4
       </button>
     </div>
   );
 };
-
-
 
 const App = () => {
   return (
@@ -139,9 +128,26 @@ const App = () => {
           <VerticalButtons />
         </div>
 
-        {/* Text display box */}
+        {/* TinyMCE Editor for Surgeon Notes */}
         <div className="bg-white rounded-lg p-4 shadow-md w-full">
-          <p>Text display box</p>
+          <h2 className="text-lg font-bold mb-4">Surgeon Notes</h2>
+          <Editor
+            apiKey="dh760c3euq182drohm49ccc3ly3wz0sbrdex533pu6qxhwpv" // Replace with your actual API key
+            init={{
+              height: 400,
+              menubar: false,
+              plugins: [
+                'advlist autolink lists link image charmap print preview anchor',
+                'searchreplace visualblocks code fullscreen',
+                'insertdatetime media table paste code help wordcount'
+              ],
+              toolbar:
+                'undo redo | formatselect | bold italic backcolor | \
+                 alignleft aligncenter alignright alignjustify | \
+                 bullist numlist outdent indent | removeformat | help',
+              content_style: 'body { font-family:Helvetica,Arial,sans-serif; font-size:14px }'
+            }}
+          />
         </div>
       </div>
     </div>
