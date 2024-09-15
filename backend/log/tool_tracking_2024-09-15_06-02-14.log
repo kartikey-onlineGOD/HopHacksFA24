@@ -1,0 +1,6 @@
+2024-09-15 06:02:15,070:WARNING: * Debugger is active!
+2024-09-15 06:02:15,076:INFO: * Debugger PIN: 127-781-862
+2024-09-15 06:02:15,190:INFO:Tool1: 2 removed from tool field. In field: 1, In use: 2
+2024-09-15 06:02:15,192:INFO:127.0.0.1 - - [15/Sep/2024 06:02:15] "GET /video_feed HTTP/1.1" 200 -
+2024-09-15 06:02:16,832:INFO:127.0.0.1 - - [15/Sep/2024 06:02:16] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:02:18,160:INFO: * Detected change in '/Users/kartikeypandey/Desktop/FALL 2024/Timepass/Hackathon/SIFT-App_HopHackFA24/backend/tracker.py', reloading

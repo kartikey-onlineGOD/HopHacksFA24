@@ -1,0 +1,25 @@
+/* VideoStream.css */
+.video-stream-container {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    min-height: 400px;
+    padding: 20px;
+  }
+  
+  .video-stream {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    padding: 10px;
+    border: 2px solid #e0e0e0;
+  }
+  
+  .text-red-500 {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+  }
+  

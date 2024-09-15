@@ -1,0 +1,8 @@
+2024-09-15 06:02:26,464:WARNING: * Debugger is active!
+2024-09-15 06:02:26,468:INFO: * Debugger PIN: 127-781-862
+2024-09-15 06:02:38,792:INFO:Tool1: 2 removed from tool field. In field: 1, In use: 2
+2024-09-15 06:02:38,794:INFO:127.0.0.1 - - [15/Sep/2024 06:02:38] "GET /video_feed HTTP/1.1" 200 -
+2024-09-15 06:02:41,034:INFO:127.0.0.1 - - [15/Sep/2024 06:02:41] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:02:55,439:INFO:Tool3: 1 removed from tool field. In field: 0, In use: 1
+2024-09-15 06:02:55,645:INFO:Tool1: 1 removed from tool field. In field: 0, In use: 3
+2024-09-15 06:02:55,645:INFO:Tool2: 1 removed from tool field. In field: 0, In use: 1

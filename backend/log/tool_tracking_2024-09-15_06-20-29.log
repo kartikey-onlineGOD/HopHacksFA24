@@ -1,0 +1,201 @@
+2024-09-15 06:20:29,790:WARNING: * Debugger is active!
+2024-09-15 06:20:29,795:INFO: * Debugger PIN: 127-781-862
+2024-09-15 06:20:31,557:INFO:127.0.0.1 - - [15/Sep/2024 06:20:31] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:20:31,564:INFO:127.0.0.1 - - [15/Sep/2024 06:20:31] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:20:48,267:INFO:127.0.0.1 - - [15/Sep/2024 06:20:48] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:20:48,273:INFO:127.0.0.1 - - [15/Sep/2024 06:20:48] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:21:00,321:INFO:127.0.0.1 - - [15/Sep/2024 06:21:00] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:21:00,328:INFO:127.0.0.1 - - [15/Sep/2024 06:21:00] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:21:20,235:INFO:127.0.0.1 - - [15/Sep/2024 06:21:20] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:21:20,244:INFO:127.0.0.1 - - [15/Sep/2024 06:21:20] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:21:40,004:INFO:Tool1: 2 removed from tool field. In field: 1, In use: 2
+2024-09-15 06:21:40,006:INFO:127.0.0.1 - - [15/Sep/2024 06:21:40] "GET /video_feed HTTP/1.1" 200 -
+2024-09-15 06:21:41,949:INFO:127.0.0.1 - - [15/Sep/2024 06:21:41] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:21:41,956:INFO:127.0.0.1 - - [15/Sep/2024 06:21:41] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:21:43,948:INFO:127.0.0.1 - - [15/Sep/2024 06:21:43] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:21:43,955:INFO:127.0.0.1 - - [15/Sep/2024 06:21:43] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:21:45,948:INFO:127.0.0.1 - - [15/Sep/2024 06:21:45] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:21:45,953:INFO:127.0.0.1 - - [15/Sep/2024 06:21:45] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:21:47,951:INFO:127.0.0.1 - - [15/Sep/2024 06:21:47] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:21:47,958:INFO:127.0.0.1 - - [15/Sep/2024 06:21:47] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:21:49,950:INFO:127.0.0.1 - - [15/Sep/2024 06:21:49] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:21:49,955:INFO:127.0.0.1 - - [15/Sep/2024 06:21:49] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:21:51,951:INFO:127.0.0.1 - - [15/Sep/2024 06:21:51] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:21:51,955:INFO:127.0.0.1 - - [15/Sep/2024 06:21:51] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:21:56,669:INFO:127.0.0.1 - - [15/Sep/2024 06:21:56] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:21:56,676:INFO:127.0.0.1 - - [15/Sep/2024 06:21:56] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:00,560:INFO:127.0.0.1 - - [15/Sep/2024 06:22:00] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:00,567:INFO:127.0.0.1 - - [15/Sep/2024 06:22:00] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:02,561:INFO:127.0.0.1 - - [15/Sep/2024 06:22:02] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:02,565:INFO:127.0.0.1 - - [15/Sep/2024 06:22:02] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:04,561:INFO:127.0.0.1 - - [15/Sep/2024 06:22:04] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:04,566:INFO:127.0.0.1 - - [15/Sep/2024 06:22:04] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:06,561:INFO:127.0.0.1 - - [15/Sep/2024 06:22:06] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:06,567:INFO:127.0.0.1 - - [15/Sep/2024 06:22:06] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:08,282:INFO:Tool2: 1 discarded. In use: -1, Discarded: 1
+2024-09-15 06:22:08,564:INFO:127.0.0.1 - - [15/Sep/2024 06:22:08] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:08,570:INFO:127.0.0.1 - - [15/Sep/2024 06:22:08] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:10,565:INFO:127.0.0.1 - - [15/Sep/2024 06:22:10] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:10,571:INFO:127.0.0.1 - - [15/Sep/2024 06:22:10] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:12,565:INFO:127.0.0.1 - - [15/Sep/2024 06:22:12] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:12,569:INFO:127.0.0.1 - - [15/Sep/2024 06:22:12] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:14,567:INFO:127.0.0.1 - - [15/Sep/2024 06:22:14] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:14,572:INFO:127.0.0.1 - - [15/Sep/2024 06:22:14] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:16,570:INFO:127.0.0.1 - - [15/Sep/2024 06:22:16] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:16,575:INFO:127.0.0.1 - - [15/Sep/2024 06:22:16] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:18,571:INFO:127.0.0.1 - - [15/Sep/2024 06:22:18] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:18,577:INFO:127.0.0.1 - - [15/Sep/2024 06:22:18] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:20,572:INFO:127.0.0.1 - - [15/Sep/2024 06:22:20] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:20,578:INFO:127.0.0.1 - - [15/Sep/2024 06:22:20] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:22,572:INFO:127.0.0.1 - - [15/Sep/2024 06:22:22] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:22,577:INFO:127.0.0.1 - - [15/Sep/2024 06:22:22] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:24,572:INFO:127.0.0.1 - - [15/Sep/2024 06:22:24] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:24,577:INFO:127.0.0.1 - - [15/Sep/2024 06:22:24] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:26,574:INFO:127.0.0.1 - - [15/Sep/2024 06:22:26] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:26,579:INFO:127.0.0.1 - - [15/Sep/2024 06:22:26] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:28,575:INFO:127.0.0.1 - - [15/Sep/2024 06:22:28] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:28,580:INFO:127.0.0.1 - - [15/Sep/2024 06:22:28] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:31,281:INFO:127.0.0.1 - - [15/Sep/2024 06:22:31] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:31,286:INFO:127.0.0.1 - - [15/Sep/2024 06:22:31] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:35,162:INFO:127.0.0.1 - - [15/Sep/2024 06:22:35] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:35,168:INFO:127.0.0.1 - - [15/Sep/2024 06:22:35] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:39,678:INFO:127.0.0.1 - - [15/Sep/2024 06:22:39] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:39,685:INFO:127.0.0.1 - - [15/Sep/2024 06:22:39] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:42,766:INFO:127.0.0.1 - - [15/Sep/2024 06:22:42] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:42,772:INFO:127.0.0.1 - - [15/Sep/2024 06:22:42] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:22:50,991:INFO:127.0.0.1 - - [15/Sep/2024 06:22:50] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:22:50,997:INFO:127.0.0.1 - - [15/Sep/2024 06:22:50] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:23:04,785:INFO:127.0.0.1 - - [15/Sep/2024 06:23:04] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:23:04,793:INFO:127.0.0.1 - - [15/Sep/2024 06:23:04] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:23:16,545:INFO:Tool3: 1 removed from tool field. In field: 0, In use: 1
+2024-09-15 06:23:16,648:INFO:Tool1: 1 removed from tool field. In field: 0, In use: 3
+2024-09-15 06:23:16,649:INFO:Tool2: 1 removed from tool field. In field: 0, In use: 0
+2024-09-15 06:23:16,757:INFO:Tool3: 4 returned to tool field. In field: 4, In use: -3
+2024-09-15 06:23:16,856:INFO:Tool3: 3 returned to tool field. In field: 7, In use: -6
+2024-09-15 06:23:17,054:INFO:Tool3: 1 returned to tool field. In field: 8, In use: -7
+2024-09-15 06:23:17,118:INFO:Tool3: 1 removed from tool field. In field: 7, In use: -6
+2024-09-15 06:23:17,318:INFO:Tool3: 1 returned to tool field. In field: 8, In use: -7
+2024-09-15 06:23:17,484:INFO:Tool3: 1 removed from tool field. In field: 7, In use: -6
+2024-09-15 06:23:17,648:INFO:Tool3: 1 returned to tool field. In field: 8, In use: -7
+2024-09-15 06:23:17,823:INFO:Tool3: 1 removed from tool field. In field: 7, In use: -6
+2024-09-15 06:23:17,982:INFO:Tool3: 1 removed from tool field. In field: 6, In use: -5
+2024-09-15 06:23:18,050:INFO:Tool3: 2 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:18,257:INFO:Tool3: 1 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:18,351:INFO:Tool3: 1 returned to tool field. In field: 4, In use: -3
+2024-09-15 06:23:18,729:INFO:Tool3: 1 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:18,824:INFO:Tool3: 1 returned to tool field. In field: 4, In use: -3
+2024-09-15 06:23:19,020:INFO:Tool3: 1 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:19,130:INFO:Tool3: 1 returned to tool field. In field: 4, In use: -3
+2024-09-15 06:23:19,885:INFO:Tool3: 1 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:20,088:INFO:Tool3: 1 returned to tool field. In field: 4, In use: -3
+2024-09-15 06:23:20,224:INFO:Tool3: 1 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:20,322:INFO:127.0.0.1 - - [15/Sep/2024 06:23:20] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:23:20,327:INFO:127.0.0.1 - - [15/Sep/2024 06:23:20] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:23:20,483:INFO:Tool3: 1 returned to tool field. In field: 4, In use: -3
+2024-09-15 06:23:21,882:INFO:Tool3: 1 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:22,031:INFO:Tool3: 1 returned to tool field. In field: 4, In use: -3
+2024-09-15 06:23:22,366:INFO:Tool3: 1 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:22,458:INFO:Tool3: 1 returned to tool field. In field: 4, In use: -3
+2024-09-15 06:23:22,884:INFO:Tool3: 1 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:22,993:INFO:Tool3: 2 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:23,095:INFO:Tool3: 1 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:23,194:INFO:Tool3: 1 removed from tool field. In field: 5, In use: -4
+2024-09-15 06:23:23,683:INFO:Tool3: 1 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:23,786:INFO:Tool3: 1 removed from tool field. In field: 5, In use: -4
+2024-09-15 06:23:23,851:INFO:Tool3: 1 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:24,129:INFO:Tool3: 1 removed from tool field. In field: 5, In use: -4
+2024-09-15 06:23:24,260:INFO:Tool3: 1 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:24,459:INFO:Tool3: 1 removed from tool field. In field: 5, In use: -4
+2024-09-15 06:23:24,598:INFO:Tool3: 1 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:24,690:INFO:Tool3: 1 removed from tool field. In field: 5, In use: -4
+2024-09-15 06:23:24,785:INFO:Tool3: 1 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:25,253:INFO:Tool3: 1 removed from tool field. In field: 5, In use: -4
+2024-09-15 06:23:25,454:INFO:Tool3: 1 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:26,085:INFO:Tool3: 1 returned to tool field. In field: 7, In use: -6
+2024-09-15 06:23:26,329:INFO:Tool3: 1 removed from tool field. In field: 6, In use: -5
+2024-09-15 06:23:26,384:INFO:Tool3: 1 removed from tool field. In field: 5, In use: -4
+2024-09-15 06:23:26,522:INFO:Tool3: 1 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:26,689:INFO:Tool3: 2 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:26,749:INFO:Tool3: 2 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:26,854:INFO:Tool3: 2 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:26,883:INFO:Tool3: 1 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:27,227:INFO:Tool3: 1 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:27,656:INFO:Tool3: 1 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:27,718:INFO:Tool3: 1 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:27,924:INFO:Tool3: 1 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:28,026:INFO:Tool3: 1 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:28,149:INFO:Tool3: 1 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:28,224:INFO:Tool3: 1 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:28,283:INFO:Tool3: 1 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:28,353:INFO:Tool3: 1 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:28,454:INFO:Tool3: 2 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:28,564:INFO:Tool3: 2 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:28,657:INFO:Tool3: 2 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:28,956:INFO:Tool3: 1 removed from tool field. In field: 5, In use: -4
+2024-09-15 06:23:29,158:INFO:Tool3: 1 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:29,262:INFO:Tool3: 1 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:29,324:INFO:Tool3: 1 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:29,458:INFO:Tool3: 1 removed from tool field. In field: 5, In use: -4
+2024-09-15 06:23:29,565:INFO:Tool3: 1 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:29,627:INFO:Tool3: 1 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:29,794:INFO:Tool3: 1 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:29,887:INFO:Tool3: 2 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:29,957:INFO:Tool3: 1 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:30,058:INFO:Tool3: 2 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:30,123:INFO:Tool3: 1 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:30,233:INFO:Tool3: 1 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:30,335:INFO:Tool3: 1 returned to tool field. In field: 4, In use: -3
+2024-09-15 06:23:30,559:INFO:Tool3: 1 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:30,625:INFO:Tool3: 1 returned to tool field. In field: 4, In use: -3
+2024-09-15 06:23:30,731:INFO:Tool3: 1 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:30,827:INFO:Tool3: 1 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:30,927:INFO:Tool3: 1 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:31,027:INFO:Tool3: 1 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:31,116:INFO:Tool3: 1 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:31,574:INFO:Tool3: 1 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:31,705:INFO:Tool3: 2 removed from tool field. In field: 4, In use: -3
+2024-09-15 06:23:31,889:INFO:Tool3: 1 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:32,027:INFO:Tool3: 2 returned to tool field. In field: 5, In use: -4
+2024-09-15 06:23:32,139:INFO:Tool3: 1 returned to tool field. In field: 6, In use: -5
+2024-09-15 06:23:32,229:INFO:Tool3: 1 removed from tool field. In field: 5, In use: -4
+2024-09-15 06:23:32,374:INFO:Tool3: 2 returned to tool field. In field: 7, In use: -6
+2024-09-15 06:23:32,456:INFO:Tool3: 4 removed from tool field. In field: 3, In use: -2
+2024-09-15 06:23:32,569:INFO:Tool3: 2 removed from tool field. In field: 1, In use: 0
+2024-09-15 06:23:32,828:INFO:Tool3: 2 returned to tool field. In field: 3, In use: -2
+2024-09-15 06:23:32,925:INFO:Tool3: 2 removed from tool field. In field: 1, In use: 0
+2024-09-15 06:23:32,954:INFO:Tool3: 1 removed from tool field. In field: 0, In use: 1
+2024-09-15 06:23:33,125:INFO:Tool1: 1 returned to tool field. In field: 1, In use: 2
+2024-09-15 06:23:33,232:INFO:Tool1: 1 removed from tool field. In field: 0, In use: 3
+2024-09-15 06:23:33,491:INFO:Tool2: 1 returned to tool field. In field: 1, In use: -1
+2024-09-15 06:23:33,555:INFO:Tool1: 1 returned to tool field. In field: 1, In use: 2
+2024-09-15 06:23:33,923:INFO:Tool1: 1 removed from tool field. In field: 0, In use: 3
+2024-09-15 06:23:33,924:INFO:Tool3: 1 returned to tool field. In field: 1, In use: 0
+2024-09-15 06:23:33,990:INFO:Tool3: 1 removed from tool field. In field: 0, In use: 1
+2024-09-15 06:23:34,055:INFO:Tool3: 1 returned to tool field. In field: 1, In use: 0
+2024-09-15 06:23:34,125:INFO:Tool1: 1 returned to tool field. In field: 1, In use: 2
+2024-09-15 06:23:36,149:INFO:Tool3: 1 removed from tool field. In field: 0, In use: 1
+2024-09-15 06:23:36,227:INFO:Tool3: 1 returned to tool field. In field: 1, In use: 0
+2024-09-15 06:23:38,369:INFO:Tool3: 1 removed from tool field. In field: 0, In use: 1
+2024-09-15 06:23:38,460:INFO:Tool3: 1 returned to tool field. In field: 1, In use: 0
+2024-09-15 06:23:39,631:INFO:Tool1: 1 removed from tool field. In field: 0, In use: 3
+2024-09-15 06:23:39,632:INFO:Tool3: 1 removed from tool field. In field: 0, In use: 1
+2024-09-15 06:23:39,758:INFO:Tool1: 1 returned to tool field. In field: 1, In use: 2
+2024-09-15 06:23:39,927:INFO:Tool3: 1 returned to tool field. In field: 1, In use: 0
+2024-09-15 06:23:40,228:INFO:Tool3: 1 removed from tool field. In field: 0, In use: 1
+2024-09-15 06:23:40,268:INFO:127.0.0.1 - - [15/Sep/2024 06:23:40] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:23:40,274:INFO:127.0.0.1 - - [15/Sep/2024 06:23:40] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:23:40,434:INFO:Tool3: 1 returned to tool field. In field: 1, In use: 0
+2024-09-15 06:24:00,296:INFO:127.0.0.1 - - [15/Sep/2024 06:24:00] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:24:00,302:INFO:127.0.0.1 - - [15/Sep/2024 06:24:00] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:24:04,412:INFO:Tool3: 1 discarded. In use: -1, Discarded: 1
+2024-09-15 06:24:20,263:INFO:127.0.0.1 - - [15/Sep/2024 06:24:20] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:24:20,269:INFO:127.0.0.1 - - [15/Sep/2024 06:24:20] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:24:40,299:INFO:127.0.0.1 - - [15/Sep/2024 06:24:40] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:24:40,305:INFO:127.0.0.1 - - [15/Sep/2024 06:24:40] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:25:00,398:INFO:127.0.0.1 - - [15/Sep/2024 06:25:00] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:25:00,406:INFO:127.0.0.1 - - [15/Sep/2024 06:25:00] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:25:20,403:INFO:127.0.0.1 - - [15/Sep/2024 06:25:20] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:25:20,411:INFO:127.0.0.1 - - [15/Sep/2024 06:25:20] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:27:55,175:INFO:127.0.0.1 - - [15/Sep/2024 06:27:55] "GET /logs HTTP/1.1" 200 -
+2024-09-15 06:27:55,181:INFO:127.0.0.1 - - [15/Sep/2024 06:27:55] "GET /tool_counts HTTP/1.1" 200 -
+2024-09-15 06:27:55,896:INFO: * Detected change in '/Users/kartikeypandey/Desktop/FALL 2024/Timepass/Hackathon/SIFT-App_HopHackFA24/backend/tracker.py', reloading

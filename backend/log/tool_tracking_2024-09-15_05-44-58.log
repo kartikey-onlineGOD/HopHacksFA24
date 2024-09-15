@@ -1,0 +1,112 @@
+2024-09-15 05:44:58,760:WARNING: * Debugger is active!
+2024-09-15 05:44:58,765:INFO: * Debugger PIN: 127-781-862
+2024-09-15 05:45:16,553:INFO:127.0.0.1 - - [15/Sep/2024 05:45:16] "GET /video_feed HTTP/1.1" 200 -
+2024-09-15 05:45:18,438:INFO:127.0.0.1 - - [15/Sep/2024 05:45:18] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:20,435:INFO:127.0.0.1 - - [15/Sep/2024 05:45:20] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:22,435:INFO:127.0.0.1 - - [15/Sep/2024 05:45:22] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:24,436:INFO:127.0.0.1 - - [15/Sep/2024 05:45:24] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:26,440:INFO:127.0.0.1 - - [15/Sep/2024 05:45:26] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:27,493:INFO:neon_blue: 1 returned to tool field. In field: 1, In use: -1
+2024-09-15 05:45:27,494:INFO:neon_blue: 1 discarded. In use: -2, Discarded: 1
+2024-09-15 05:45:27,624:INFO:neon_blue: 1 removed from tool field. In field: 0, In use: -1
+2024-09-15 05:45:28,179:INFO:neon_blue: 1 returned to tool field. In field: 1, In use: -2
+2024-09-15 05:45:28,442:INFO:127.0.0.1 - - [15/Sep/2024 05:45:28] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:28,449:INFO:neon_blue: 1 removed from tool field. In field: 0, In use: -1
+2024-09-15 05:45:29,616:INFO:neon_blue: 1 returned to tool field. In field: 1, In use: -2
+2024-09-15 05:45:29,751:INFO:neon_blue: 1 removed from tool field. In field: 0, In use: -1
+2024-09-15 05:45:30,439:INFO:127.0.0.1 - - [15/Sep/2024 05:45:30] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:30,558:INFO:neon_blue: 1 returned to tool field. In field: 1, In use: -2
+2024-09-15 05:45:30,685:INFO:neon_blue: 3 discarded. In use: -5, Discarded: 4
+2024-09-15 05:45:30,825:INFO:neon_blue: 1 returned to tool field. In field: 2, In use: -6
+2024-09-15 05:45:31,025:INFO:neon_blue: 1 removed from tool field. In field: 1, In use: -5
+2024-09-15 05:45:31,652:INFO:neon_pink: 1 discarded. In use: -1, Discarded: 1
+2024-09-15 05:45:31,652:INFO:neon_blue: 1 removed from tool field. In field: 0, In use: -4
+2024-09-15 05:45:31,866:INFO:neon_green: 1 discarded. In use: -1, Discarded: 1
+2024-09-15 05:45:31,867:INFO:neon_pink: 1 returned to tool field. In field: 1, In use: -2
+2024-09-15 05:45:31,923:INFO:neon_green: 1 returned to tool field. In field: 1, In use: -2
+2024-09-15 05:45:32,054:INFO:neon_pink: 1 discarded. In use: -3, Discarded: 2
+2024-09-15 05:45:32,199:INFO:neon_pink: 1 returned to tool field. In field: 2, In use: -4
+2024-09-15 05:45:32,441:INFO:127.0.0.1 - - [15/Sep/2024 05:45:32] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:32,466:INFO:neon_pink: 1 discarded. In use: -5, Discarded: 3
+2024-09-15 05:45:32,592:INFO:neon_pink: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:34,439:INFO:127.0.0.1 - - [15/Sep/2024 05:45:34] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:35,286:INFO:neon_green: 1 returned to tool field. In field: 2, In use: -3
+2024-09-15 05:45:35,424:INFO:neon_green: 1 removed from tool field. In field: 1, In use: -2
+2024-09-15 05:45:35,560:INFO:neon_green: 1 discarded. In use: -3, Discarded: 2
+2024-09-15 05:45:35,814:INFO:neon_green: 1 returned to tool field. In field: 2, In use: -4
+2024-09-15 05:45:35,965:INFO:neon_green: 1 removed from tool field. In field: 1, In use: -3
+2024-09-15 05:45:36,100:INFO:neon_green: 1 returned to tool field. In field: 2, In use: -4
+2024-09-15 05:45:36,222:INFO:neon_green: 1 discarded. In use: -5, Discarded: 3
+2024-09-15 05:45:36,441:INFO:127.0.0.1 - - [15/Sep/2024 05:45:36] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:37,162:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:37,616:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:37,890:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:38,446:INFO:127.0.0.1 - - [15/Sep/2024 05:45:38] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:39,490:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:39,692:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:39,964:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:40,071:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:40,356:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:40,450:INFO:127.0.0.1 - - [15/Sep/2024 05:45:40] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:40,659:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:41,068:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:41,202:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:41,334:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:41,598:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:41,804:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:41,916:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:42,069:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:42,448:INFO:127.0.0.1 - - [15/Sep/2024 05:45:42] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:42,499:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:42,615:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:42,680:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:42,822:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:42,952:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:43,103:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:43,335:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:43,468:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:43,731:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:43,869:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:43,995:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:44,403:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:44,447:INFO:127.0.0.1 - - [15/Sep/2024 05:45:44] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:44,535:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:44,809:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:44,928:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:45,924:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:46,054:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:46,261:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:46,404:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:46,447:INFO:127.0.0.1 - - [15/Sep/2024 05:45:46] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:47,301:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:47,356:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:47,756:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:47,935:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:48,449:INFO:127.0.0.1 - - [15/Sep/2024 05:45:48] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:48,660:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:48,936:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:49,473:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:49,569:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:49,967:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:50,449:INFO:127.0.0.1 - - [15/Sep/2024 05:45:50] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:50,504:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:50,906:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:51,034:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:51,299:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:51,432:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:51,832:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:51,975:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:52,026:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:52,295:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:52,449:INFO:127.0.0.1 - - [15/Sep/2024 05:45:52] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:52,826:INFO:neon_green: 1 removed from tool field. In field: 2, In use: -5
+2024-09-15 05:45:53,134:INFO:neon_green: 1 returned to tool field. In field: 3, In use: -6
+2024-09-15 05:45:53,705:INFO:neon_green: 2 removed from tool field. In field: 1, In use: -4
+2024-09-15 05:45:53,832:INFO:neon_pink: 2 removed from tool field. In field: 1, In use: -4
+2024-09-15 05:45:54,097:INFO:neon_green: 1 removed from tool field. In field: 0, In use: -3
+2024-09-15 05:45:54,097:INFO:neon_pink: 1 removed from tool field. In field: 0, In use: -3
+2024-09-15 05:45:54,450:INFO:127.0.0.1 - - [15/Sep/2024 05:45:54] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:56,453:INFO:127.0.0.1 - - [15/Sep/2024 05:45:56] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:45:58,450:INFO:127.0.0.1 - - [15/Sep/2024 05:45:58] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:46:00,449:INFO:127.0.0.1 - - [15/Sep/2024 05:46:00] "GET /logs HTTP/1.1" 200 -
+2024-09-15 05:46:19,775:INFO: * Detected change in '/Users/kartikeypandey/Desktop/FALL 2024/Timepass/Hackathon/SIFT-App_HopHackFA24/backend/tracker.py', reloading
