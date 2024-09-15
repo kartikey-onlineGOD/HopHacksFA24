@@ -1,7 +1,21 @@
 # HopHacks Fall 2024 Project
 
-**Author:** Kartikey Pandey  
+**Author:** Kartikey Pandey and Manas Munjial
 **Date:** September 2024
+
+## Project Description: Multi-Spatial Tool Tracking System for Surgical Safety
+
+### Overview
+This project addresses the critical issue of surgical and procedural errors, a leading cause of patient harm in the U.S. healthcare system. Each year, medical errors harm millions of patients and result in 250,000 deaths, costing billions of dollars. Our tool-tracking system, designed specifically for operating rooms, ensures real-time monitoring of surgical tools using computer vision and data tracking.
+
+### Problem Statement
+Surgical errors often occur due to mismanagement or loss of tools during procedures, leading to retained surgical instruments or delays that can jeopardize patient safety. By tackling the problem of misplaced tools, this project aims to minimize errors that can directly contribute to patient harm.
+
+### Solution
+The tool-tracking system utilizes cameras and neon-colored markers to monitor the movement of instruments. The system provides a real-time log of tools in use, in the field, and discarded, helping to prevent errors such as instruments being left inside patients. Additionally, it allows medical staff to reinitialize tool counts at any time, further ensuring accuracy.
+
+### Why It Matters
+With technology-driven solutions, this project reduces the margin for human error in surgical environments, directly aligning with one of the five leading patient safety challenges: procedural and surgical errors. It not only enhances tool accountability but also creates a safer operating room environment, potentially saving lives and reducing costs associated with post-surgical complications.
 
 ## Project Overview
 
